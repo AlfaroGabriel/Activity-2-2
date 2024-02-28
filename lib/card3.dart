@@ -105,12 +105,7 @@ Chip(
  backgroundColor: Colors.black.withOpacity(0.7),
  ),
 Chip(
- label: Text('Sweets',
- style: FooderlichTheme.darkTextTheme.bodyText1),
- backgroundColor: Colors.black.withOpacity(0.7),
- ),
-Chip(
- label: Text('Savory',
+ label: Text('Pescetarian',
  style: FooderlichTheme.darkTextTheme.bodyText1),
  backgroundColor: Colors.black.withOpacity(0.7),
  ),
